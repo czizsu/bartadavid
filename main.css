@@ -1,4 +1,4 @@
-/* =============================
+ /* =============================
     GENERAL STYLES
 =============================*/
 
@@ -14,7 +14,7 @@ img {
 }
 
 body {
-  background: url('../assets/wedding-landing-background.png') repeat center;
+  background: url('../images/wedding-landing-background.png') repeat center;
   font-family: 'Libre Baskerville', serif;
   font-size: 1.125rem;
   line-height: 1.5;
@@ -194,6 +194,48 @@ a:hover {
   margin-bottom: 1.5rem;
 }
 
+
+/* ==== COMPONENT STYLES ==== */
+
+
+
+.button {
+
+  display: inline-block;
+
+  border: 1px solid ;
+  background-color: #007bff;
+
+  color: #ffff;
+
+  border-radius: 10px;
+
+  padding-right: 140px;
+
+  padding-left: 5px;
+
+  margin: 5px;
+
+  width: 100px;
+
+  font-family: 'Times New Roman', sans-serif;
+
+  font-size: 1.25rem;
+
+  letter-spacing: .15rem;
+
+  vertical-align: middle;
+
+}
+
+.button:hover {
+
+  border: 1px solid #000000;
+  background-color: #FFCC00;
+  color: #000000;
+
+}
+
 /* =============================
         FOOTER STYLES
 =============================*/
@@ -204,13 +246,11 @@ footer {
   background-color: #606060;
   color: #fff;
   font-family: 'Muli', sans-serif;
-  display: table;
   text-align: center;
   font-size: .875rem;
 }
 
 .footer-wrapper {
-  display: table-cell;
   vertical-align: middle;
   padding: .5rem 1rem;
 }
