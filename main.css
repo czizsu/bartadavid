@@ -1,4 +1,4 @@
-  /* =============================
+ /* =============================
     GENERAL STYLES
 =============================*/
 
@@ -67,13 +67,13 @@ a:hover {
   display: table;
   text-align: center;
   height: 90vh;
-  width: 100%;
+  width: 120%;
 }
 
 @media (min-width: 768px) {
 
   .cover {
-    background: url('https://i.imgur.com/B4wdzJv.jpg') no-repeat 100% middle/cover;
+    background:url('https://i.imgur.com/B4wdzJv.jpg') no-repeat 100% right/cover;
     text-align: center;
     height: 100vh;
     width: 100%;
@@ -202,7 +202,6 @@ a:hover {
 .answer {
   margin-bottom: 1.5rem;
 }
-
 
 /* =============================
         FOOTER STYLES
