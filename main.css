@@ -144,7 +144,19 @@ a:hover {
 
 
 .faq img {
-  height: 17.5rem;
+  display: table;
+  text-align: center;
+  height: 90vh;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+
+  .faq img {
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+  }
 }
 
 .faq p:last-child {   /* To even out the bottom and top margins of this section. */
