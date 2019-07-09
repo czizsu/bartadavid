@@ -148,14 +148,16 @@ a:hover {
   text-align: center;
   height: 90vh;
   width: 100%;
+  padding: 1rem 1rem
 }
 
 @media (min-width: 768px) {
 
   .faq img {
     text-align: center;
-    height: 100vh;
+    height: 40vh;
     width: 100%;
+    padding: 1rem 1rem
   }
 }
 
