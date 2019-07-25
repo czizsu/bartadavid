@@ -64,8 +64,6 @@ a:hover {
 
 .cover {
   background: url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% center/cover;
-  display: table;
-  text-align: center;
   height: 90vh;
   width: 120%;
 }
