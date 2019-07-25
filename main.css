@@ -274,10 +274,6 @@ a:hover {
 
 
 
-
-
-
-
 /* =============================
 
         FAQ STYLES
@@ -433,6 +429,41 @@ a:hover {
 .answer {
 
   margin-bottom: 1.5rem;
+
+}
+
+
+.question-group img {
+
+  display: table;
+
+  text-align: center;
+
+  height: 40vh;
+
+  width: 100%;
+
+  padding: 1rem 1rem
+
+}
+
+
+
+@media (min-width: 768px) {
+
+
+
+  .question-group img {
+
+    text-align: center;
+
+    height: 100%;
+
+    width: 100%;
+
+    padding: 1rem 1rem
+
+  }
 
 }
 
