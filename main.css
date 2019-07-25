@@ -464,6 +464,8 @@ a:hover {
 
 
   .pictures img {
+   
+    display: table;
 
     text-align: center;
 
