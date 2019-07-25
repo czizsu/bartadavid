@@ -434,6 +434,40 @@ a:hover {
 
 }
 
+.contact img {
+
+  display: table;
+
+  text-align: center;
+
+  height: 40vh;
+
+  width: 100%;
+
+  padding: 1rem 1rem
+
+}
+
+
+
+@media (min-width: 768px) {
+
+
+
+  .contact img {
+
+    text-align: center;
+
+    height: 40vh;
+
+    width: 100%;
+
+    padding: 1rem 1rem
+
+  }
+
+}
+
 
 
 /* =============================
