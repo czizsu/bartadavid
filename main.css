@@ -246,16 +246,12 @@ a:hover {
 
 
   .pictures img {
-   
-    display: table;
-
-    text-align: center;
-
-    height: 50%;
-
-    width: 50%;
-
-    padding: 1rem 1rem
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding: 1.5rem;
+    margin: .5rem
+    height: 30%;
 
   }
 
