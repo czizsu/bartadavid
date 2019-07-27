@@ -128,13 +128,13 @@ a:hover {
 
 .cover {
 
-  background: url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% right/cover;
+  background: url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% center/cover;
 
   display: table;
 
   text-align: center;
 
-  height: 90vh;
+  height: 90%;
 
   width: 120%;
 
@@ -152,14 +152,11 @@ a:hover {
 
     text-align: center;
 
-    height: 100vh;
+    height: 100%;
 
     width: 100%;
 
   }
-
-
-
 }
 
 
