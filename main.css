@@ -1,163 +1,88 @@
- /* =============================
-
+/* =============================
     GENERAL STYLES
-
 =============================*/
 
-
-
 * {
-
   box-sizing: border-box;
-
 }
-
-
 
 /* Single-direction margin declaration to establish vertical rhythm. */
-
 h1,h2,h3,
-
 p,
-
 img {
-
     margin-bottom: 1.5rem;
-
 }
-
-
 
 body {
-
   background: url('../images/wedding-landing-background.png') no-repeat center;
-
   font-family: 'Libre Baskerville', serif;
-
   font-size: 1.125rem;
-
   line-height: 1.5;
-
   color: #444349;
-
   padding: 1rem 1rem
-
 }
-
-
 
 @media (min-width: 768px) {
-
   padding: 1rem 1rem
-
 }
-
-
-
 
 
 .faq,
-.contact,
-.pictures{
-
+.contact {
   width: 95%;
-
   margin: 1.5rem auto;
-
   padding: .5rem 1rem;
-
   text-align: center;
-
 }
-
-
 
 h1, 
-
 h2 {
-
   font-family: 'Great Vibes', cursive;
-
 }
-
-
 
 h2 {
-
   font-size: 3rem;
-
 }
-
-
 
 h3 {
-
   font-size: 1.5rem;
-
 }
-
-
 
 a {
-
   text-decoration: none;
-
   color: #bd806e;
-
 }
-
-
 
 a:hover {
-
   color: #eda087;
-
   transition: color .15s ease-in-out;
-
 }
-
-
 
 /* =============================
-
     HEADER STYLES
-
 =============================*/
 
-
-
 .cover {
-
   background: url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% center/cover;
-
   display: table;
-
   text-align: center;
-
-  height: 90%;
-
+  height: 90vh;
   width: 120%;
-
 }
-
-
 
 @media (min-width: 768px) {
 
-
-
   .cover {
-
     background:url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% right/cover;
-
     text-align: center;
-
-    height: 100%;
-
+    height: 100vh;
     width: 100%;
-
   }
+
 }
+
+
+
 
 
 
