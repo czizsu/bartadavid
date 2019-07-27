@@ -65,7 +65,7 @@ a:hover {
 .cover {
   background: url('https://i.imgur.com/I82Ktcj.jpg') no-repeat 100% center/cover;
   display: table;
-  text-align: right;
+  text-align: center;
   height: 90vh;
   width: 120%;
 }
@@ -212,9 +212,9 @@ a:hover {
 
   text-align: center;
 
-  height: 70%;
+  height: 100%;
 
-  width: 70%;
+  width: 100%;
 
   padding: 1rem 1rem
 
@@ -361,9 +361,9 @@ a:hover {
 
   text-align: center;
 
-  height: 70%;
+  height: 100%;
 
-  width: 70%;
+  width: 100%;
 
   padding: 1rem 1rem
 
@@ -402,9 +402,9 @@ a:hover {
 
   text-align: center;
 
-  height: 70%;
+  height: 100%;
 
-  width: 70%;
+  width: 100%;
 
   padding: 1rem 1rem
 
