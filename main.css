@@ -217,8 +217,9 @@ a:hover {
 }
 
 .contact {
-  display: table-cell;
-  vertical-align: bottom;
+  height: 10vh;
+  width: 100%;
+  text-align: center;
 }
 
 /* =============================
